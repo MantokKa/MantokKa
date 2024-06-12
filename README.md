@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MantokKa
+- 👋 Hi, I’m line1
 - 👀 I’m interested in trying new techs
 - 🌱 I’m currently learning python, just a beginner though 
 - 💞️ I’m looking to collaborate on creating our future together 
-- 📫 How to reach me: fb: Mantok Ka
+- 📫 How to reach me: fb: line1
 - 😄 Pronouns: bird
 - ⚡ Fun fact: I created this 2:17am, meaning I'm high af 
 
