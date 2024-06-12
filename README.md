@@ -1,4 +1,3 @@
-- 👋 Hi, I’m line1
 - 👋 Hi, I’m line1 and line2
 - 👀 I’m interested in trying new techs
 - 🌱 I’m currently learning python, just a beginner though 
